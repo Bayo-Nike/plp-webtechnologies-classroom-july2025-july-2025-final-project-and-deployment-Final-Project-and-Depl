@@ -1,90 +1,66 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# My Portfolio Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+A clean, responsive multipage portfolio website built with **HTML5**, **CSS3**, and **JavaScript**.
 
 ---
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+## 🚀 Project Purpose
 
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+This website serves as a personal portfolio to showcase my skills, projects, services, and provide a way to contact me. It is designed with a mobile-first, responsive layout ensuring a smooth user experience across all devices.
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## 🗂️ Project Structure
 
-Using your plan, begin building:
+/portfolio-website
+│
+├── index.html # Home page
+├── about.html # About me page
+├── services.html # Services offered
+├── contact.html # Contact form page
+│
+├── /css
+│ └── style.css # Global styles and responsive layout
+│
+├── /js
+│ └── script.js # JavaScript for menu toggle and interactivity
+│
+├── /images # All images and assets
+│
+└── README.md # This documentation file
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
-
----
-
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+## ⚙️ Technologies Used
 
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+- HTML5 (semantic elements for accessibility and SEO)
+- CSS3 (Flexbox, Grid, media queries for responsiveness)
+- JavaScript (DOM manipulation, mobile menu toggle)
+- Netlify Forms (for handling contact form submissions)
 
 ---
 
-## Deliverables
+## 🌐 Live Demo
 
-1. A GitHub repository containing:
+[View the live site here](https://your-username.github.io/portfolio-website)
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+*(Replace with your actual live URL after deployment)*
 
 ---
 
-## Outcome
+## 🎯 Features
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+- Responsive navigation with hamburger menu on mobile devices
+- Consistent header and footer across all pages
+- Interactive contact form with Netlify backend integration
+- Clean, modular, and commented codebase
+- Semantic HTML for improved SEO and accessibility
+
+---
+
+## 📦 Installation and Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio-website.git
