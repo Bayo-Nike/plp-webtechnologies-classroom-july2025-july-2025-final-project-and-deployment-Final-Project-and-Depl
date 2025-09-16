@@ -61,4 +61,4 @@ This website serves as a personal portfolio to showcase my skills, projects, ser
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Bayo-Nike/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl
