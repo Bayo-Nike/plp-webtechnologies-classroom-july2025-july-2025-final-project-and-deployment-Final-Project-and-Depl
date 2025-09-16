@@ -45,8 +45,6 @@ This website serves as a personal portfolio to showcase my skills, projects, ser
 
 [View the live site here](https://your-username.github.io/portfolio-website)
 
-*(Replace with your actual live URL after deployment)*
-
 ---
 
 ## 🎯 Features
