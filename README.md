@@ -43,9 +43,9 @@ This website serves as a personal portfolio to showcase my skills, projects, ser
 
 ## 🌐 Live Demo
 
-[View the live site here](https://bayo-nike.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
+[View the live site here (Github Pages)](https://bayo-nike.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
 
-[OR View the live site here](https://bayisa-web-final-project-and-deploy.netlify.app/)
+[OR View the live site here (Netlify)](https://bayisa-web-final-project-and-deploy.netlify.app/)
 
 ---
 
